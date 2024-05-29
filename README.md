@@ -33,7 +33,7 @@ This script is designed to test various configurations of the Xray fragmentation
 
 2. **Run the script**:
     ```sh
-    ./mac2.ps1
+    ./mac5.ps1
     ```
 
 
