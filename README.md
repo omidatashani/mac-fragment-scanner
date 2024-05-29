@@ -37,7 +37,7 @@ This script is designed to test various configurations of the Xray fragmentation
     ```
 
 
-If you got an error that doesn't let xray run, go to settings, privacy and allow it:
+If you got an error that doesn't let xray run, go to settings/privacy and allow it:
 
 ![Screenshot of a common error](xrayblocked.png)
 
