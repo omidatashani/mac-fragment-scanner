@@ -48,7 +48,7 @@ $HTTP_PROXY_SERVER = "127.0.0.1"
 # Arrays of possible values for packets, length, and interval
 $packetsOptions = @("1-1", "1-2", "1-3", "1-5", "tlshello")
 $lengthOptions = @("1-3", "2-5", "1-5", "1-10", "3-5", "5-10", "3-10", "10-15", "10-20", "10-30", "20-50", "50-100", "100-150", "100-200")
-$intervalOptions = @("1-1", "1-2", "3-5", "1-5", "5-10", "10-15", "10-20", "20-30", "20-50", "50-100", "100-150", "150-200", "100-200")
+$intervalOptions = @("1-1", "1-2", "3-5", "1-5", "5-10", "10-15", "10-20", "20-30", "20-50")
 
 # Calculate the maximum possible instances
 $maxPossibleInstances = $packetsOptions.Count * $lengthOptions.Count * $intervalOptions.Count
