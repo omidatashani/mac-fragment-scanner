@@ -13,7 +13,7 @@ Get the lastest xray core:
 
 https://github.com/XTLS/Xray-core/releases
 
-Navigate to your directory, make sure config and xray are in the same directory:
+Navigate to your directory, make sure config.json and xray are in the same directory:
 
 cd path/to/your/directory
 
