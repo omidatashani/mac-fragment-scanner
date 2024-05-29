@@ -41,4 +41,8 @@ If you got an error that doesn't let xray run, go to settings, privacy and allow
 
 ![Screenshot of a common error](xrayblocked.png)
 
+Here is a sample imput and output:
+
+![Screenshot of sample imput and output](sampleoutput.png)
+
 
